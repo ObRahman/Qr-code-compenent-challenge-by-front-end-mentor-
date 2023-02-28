@@ -12,8 +12,9 @@ body p{
 }
 
 .container{
-    /* border: 2px solid black; */
+    /* border: 2px solid black;  */
     display: flex;
+    justify-content: center;
     margin-top: 111px;
     box-sizing: border-box;
 }
@@ -22,7 +23,6 @@ body p{
     background: white;
     border-radius: 12px;
     padding: 10px;
-    margin: auto;
     flex-basis: 234px;
     height: 369px;
     box-sizing: border-box;
