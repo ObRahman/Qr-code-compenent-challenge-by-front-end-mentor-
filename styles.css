@@ -46,9 +46,6 @@ body p{
 }
 
 @media screen and  (max-width:235px){
-    body{
-        background: yellow;
-    }
     .container{
         display: block;
     }
